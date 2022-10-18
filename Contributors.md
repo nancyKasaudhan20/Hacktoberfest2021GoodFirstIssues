@@ -129,7 +129,7 @@ Github: https://github.com/adidubs
 - Github: [Snehasish Pathak](https://github.com/snehasish-pathak)
 
 
-#### Namw: [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
+#### Name: [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - Place: Gonda, Uttar Pradesh, India
 - Bio: Learner, Enthusiast, Developer, Creator
 - Github: [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
